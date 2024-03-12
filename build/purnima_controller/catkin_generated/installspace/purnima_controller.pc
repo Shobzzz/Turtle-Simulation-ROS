@@ -1,0 +1,8 @@
+prefix=/home/nlab/catkin_ws/install
+
+Name: purnima_controller
+Description: Description of purnima_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
